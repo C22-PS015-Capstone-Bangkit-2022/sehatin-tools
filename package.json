@@ -1,0 +1,19 @@
+{
+  "name": "sehatin-tools",
+  "version": "1.0.0",
+  "description": "Internal Tools for SehatIn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools/issues"
+  },
+  "homepage": "https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools#readme"
+}
