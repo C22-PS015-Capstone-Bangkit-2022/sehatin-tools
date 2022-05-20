@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools/issues"
   },
-  "homepage": "https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools#readme"
+  "homepage": "https://github.com/C22-PS015-Capstone-Bangkit-2022/sehatin-tools#readme",
+  "dependencies": {
+    "firebase-admin": "^10.2.0"
+  }
 }
